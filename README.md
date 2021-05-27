@@ -1,4 +1,4 @@
-# POA Contract Metadata [![CircleCI](https://circleci.com/gh/poanetwork/poa-contract-metadata.svg?style=svg)](https://circleci.com/gh/poanetwork/poa-contract-metadata)
+# WOA Contract Metadata [![CircleCI](https://circleci.com/gh/poanetwork/poa-contract-metadata.svg?style=svg)](https://circleci.com/gh/poanetwork/poa-contract-metadata)
 
 A mapping of checksummed ethereum addresses to metadata, like names, and images of those addresses' logos.
 
