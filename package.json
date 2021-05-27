@@ -1,5 +1,5 @@
 {
-  "name": "poa-contract-metadata",
+  "name": "woa-contract-metadata",
   "version": "1.0.0",
   "description": "A mapping of POA contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
